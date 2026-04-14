@@ -18,6 +18,18 @@ Whiptail-Go provides a drop-in replacement for the classic Whiptail utility, rei
 
 ## Usage
 
+Install with Go:
+
+```sh
+go install github.com/buggaboo/whiptail-go@main
+```
+
+
+## License
+
+[MIT](https://github.com/buggaboo/whiptail-go/blob/main/LICENSE)
+
+
 Whiptail-Go aims to be compatible with Whiptail's command-line interface:
 
 ```bash
