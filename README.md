@@ -21,7 +21,7 @@ Whiptail-Go provides a drop-in replacement for the classic Whiptail utility, rei
 Install with Go:
 
 ```sh
-go install github.com/buggaboo/whiptail-go@main
+go install github.com/Buggaboo/whiptail-go@main
 ```
 
 

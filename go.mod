@@ -1,4 +1,4 @@
-module github.com/example/whiptail-go
+module github.com/Buggaboo/whiptail-go
 
 go 1.25.8
 
